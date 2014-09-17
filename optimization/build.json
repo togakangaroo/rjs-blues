@@ -1,0 +1,12 @@
+{
+	baseUrl: '../app/scripts',
+	dir: '../build/scripts',
+	modules: [
+		{
+			name: 'main'
+		},
+		{
+			name: 'plugins'
+		}
+	]
+}
